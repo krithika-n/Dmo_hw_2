@@ -1,5 +1,5 @@
-// Krithika Narayanan - 1213134817
-// Vaishnavi Batni - 1213222502
+// Krithika Narayanan
+// Vaishnavi Batni 
 
 #include<stdio.h>
 #include "threads.h"
